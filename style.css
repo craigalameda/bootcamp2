@@ -1,5 +1,23 @@
+h1{
+  font-family: 'Arvo', serif;
+  color: #3E92CC;
+}
+
+p{
+  font-family: 'Lobster', cursive;
+  color: #2A628F;
+}
+
 .row{
   margin-top: 5px;
+}
+
+.overlay{
+  background-image:  url(https://aamboceanservice.blob.core.windows.net/oceanservice-prod/facts/ocean-human-health.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
 .box1{
